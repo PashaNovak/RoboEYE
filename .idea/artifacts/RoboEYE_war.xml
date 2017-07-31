@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RoboEYE:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="roboeye-application-1.0.war">
+      <element id="artifact" artifact-name="RoboEYE:war exploded" />
+    </root>
+  </artifact>
+</component>
